@@ -1,2 +1,2 @@
 # HugeInteger
-Huge Integer in C++
+Huge Integer Class implemented in C++
